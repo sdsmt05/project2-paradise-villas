@@ -1,0 +1,9 @@
+[submodule "ITPortal"]
+	path = ITPortal
+	url = https://github.com/Bednaz98/SafariSolaceIT.git
+[submodule "VacationerPortal"]
+	path = VacationerPortal
+	url = https://github.com/Bednaz98/SafariSolacePal.git
+[submodule "EmployeePortal"]
+	path = EmployeePortal
+	url = https://github.com/Bednaz98/SafariSolaceResortsHelper.git
